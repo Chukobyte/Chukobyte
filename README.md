@@ -1,6 +1,6 @@
 #### Hi, I'm Michael Smith, AKA Chukobyte
 
-I'm a professional game developer that works on too many personal projects at once 🤔!  I enjoy developing games, game engines, and participating in game jams.
+I'm a game developer that works on too many personal projects at once 🤔!  I enjoy developing games, game engines, and participating in game jams.
 
 ##### What I'm Working On Currently
 
