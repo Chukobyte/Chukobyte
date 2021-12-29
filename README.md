@@ -1,4 +1,6 @@
-### Hi there 👋
+### Just A Game Developer 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chukobyte&layout=compact)
 
 <!--
 **Chukobyte/Chukobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
